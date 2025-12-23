@@ -16,7 +16,7 @@
   border-radius: 12px;
   padding: 4px;
   gap: 4px;
-  flex-wrap: wrap;
+  /* flex-wrap: wrap; */
 }
 
 .toggle-container button {
